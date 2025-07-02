@@ -1,7 +1,5 @@
 # 💫 About Me:                                                                                   
 
-<b>Visitors Count-<b> 
-![Visitor Count](https://profile-counter.glitch.me/your-Bhoomika-Tomar/count.svg)
 
 ### 👋 Hey there! I'm Bhoomika Tomar<br><br>🚀 MERN Stack Developer | 💻 Tech Enthusiast | 🎓 B.Tech CSE Student<br><br><br>I’m a passionate developer who loves crafting beautiful, responsive web apps that solve real-world problems. Whether it's building dynamic UIs with React, designing clean APIs with Node.js, or collaborating on open-source projects — I'm always learning and creating.<br><br><br><br>🔧  **Tech Stack**<br>- **Frontend**: React.js, JavaScript, HTML5, CSS3, Bootstrap, Tailwind<br>- **Backend**: Node.js, Express.js<br>- **Database**: MongoDB<br>- **Tools**: Git, GitHub, VS Code, Postman, Vercel<br><br><br><br>🌱 **Currently Exploring**:  <br>- TypeScript ⚡  <br>- Testing Libraries 🧪  <br>- Machine Learning 🐳<br>- Artificial Intelligence <br><br>📫 **Let's Connect**:  mail :- bhoomikatomar0510@gmail.com <br><br><br>💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*<br><br><br><br>
 
