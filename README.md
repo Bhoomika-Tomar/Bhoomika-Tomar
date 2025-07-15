@@ -1,3 +1,9 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bhoomika-Tomar.Bhoomika-Tomar" alt="Visitor Badge" />
+</p>
+
+
+
 # 💫 About Me:                                                                                   
 
 
